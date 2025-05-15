@@ -1,0 +1,11 @@
+requests
+ipykernel
+python-dotenv
+pydantic
+docling
+lancedb
+streamlit
+tiktoken
+langchain
+langchain-ollama
+langchain-community
